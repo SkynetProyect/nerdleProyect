@@ -1,6 +1,8 @@
 from CJugador import Jugador
 
 
+# necesito mas tiempo para hacer estas cosas, asi no se puede, agregenle un dia a la semana D:<
+
 class Instrucciones:
     def __init__(self):
         self.instrucciones: str = ""
@@ -23,4 +25,3 @@ class Sistema:
 
     def anunciar_resultado(self):
         pass
-
